@@ -1,1 +1,1 @@
-add_lunch_combo rr_pme-userdebug
+add_lunch_combo aicp_pme-userdebug
